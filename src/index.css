@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.body{
+  background: #000;
+}
+.perspective {
+    perspective: 1000px; /* Enables the 3D perspective */
+  }
+  
+  .backface-hidden {
+    backface-visibility: hidden; /* Hides the back side when not flipped */
+  }
+  
+  .rotate-y-180 {
+    transform: rotateY(180deg); /* Rotates the card 180 degrees */
+  }
+  .card {
+    perspective: 1000px; /* Enables 3D perspective */
+  }
+  
+  .rotate-y-180 {
+    transform: rotateY(180deg);
+  }
+  
+  .transform-style-3d {
+    transform-style: preserve-3d;
+  }
+  
+  .backface-hidden {
+    backface-visibility: hidden;
+  }
+  
+  .transition-opacity {
+    transition: opacity 0.7s ease-in-out;
+  }
+  
