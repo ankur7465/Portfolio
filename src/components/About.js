@@ -10,7 +10,7 @@ const About = () => {
             <img
               src="a1.jpg" // Replace with your image URL
               alt="Ankur Kumar, Software Developer"
-              className="w-48 h-48 object-cover rounded-full mx-auto shadow-lg"
+              className="w-38 h-48 object-cover rounded-full mx-auto shadow-lg"
             />
           </div>
 
