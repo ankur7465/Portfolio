@@ -25,8 +25,9 @@ function App() {
               <Experience />
               <Projects />
               <Certificate/>
-              <Contact />
               <About />
+              <Contact />
+              
               
               
               
