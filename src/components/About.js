@@ -10,13 +10,13 @@ const About = () => {
             <img
               src="a1.jpg" // Replace with your image URL
               alt="Ankur Kumar, Software Developer"
-              className="w-[350px] h-[350px] md:w-[400px] md:h-[400px]  object-cover rounded-full mx-auto shadow-lg"
+              className="w-[250px] h-[260px] md:w-[400px] md:h-[400px]  mt-5  mr-3object-cover rounded-full mx-auto shadow-lg mr-5"
             />
           </div>
 
           {/* Right Column - Text Content */}
-          <div className="lg:w-2/3 text-center lg:text-left">
-            <h2 className="text-3xl font-semibold mb-4 font-serif">
+          <div className="lg:w-2/3 text-center lg:text-left ml-7">
+            <h2 className="text-3xl font-semibold mb-4 font-serif mt-8">
               About Me
             </h2>
             <p className="text-lg  mb-6 font-serif">

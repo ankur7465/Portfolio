@@ -32,7 +32,7 @@ const Qualification = () => {
   return (
     <section className="bg-gray-100 py-10 rounded-lg dark:bg-gray-900 ">
       <div className="max-w-5xl mx-auto px-6 ">
-        <h2 className="text-3xl font-bold text-center mb-5">Qualifications</h2>
+        <h2 className="text-3xl font-bold text-center mb-5 mt-7">Qualifications</h2>
         
         <ul className="space-y-6 font-serif bg-white rounded-lg dark:bg-gray-900">
           {qualifications.map((qual, index) => (

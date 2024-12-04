@@ -40,7 +40,7 @@ export default function Certificate() {
     },
     {
      title:"Backend Bootcamp Certificate  ",
-     description:"A Backend Bootcamp Certificate signifies the completion of a training program focused on backend development. It demonstrates proficiency in server-side programming, database management, and API development.",
+     description:"A Backend Bootcamp Certificate signifies the completion of a training program focused on backend development. It demonstrates proficiency in server-side programming.",
      imgSrc:"c7.png"
     },
     {
@@ -54,7 +54,7 @@ export default function Certificate() {
     <div>
       <section className="services bg-[#dededed9] py-12 bg-gray-50   dark:bg-gray-900">
         <div className="container mx-auto text-center">
-          <h2 className="text-4xl font-bold mb-8">Our Certificates</h2>
+          <h2 className="text-4xl font-bold mb-8  mt-5">Our Certificates</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 ">
             {certificates.map((certificate, index) => (
               <FlippingCard key={index} certificate={certificate} />
