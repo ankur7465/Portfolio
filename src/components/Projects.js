@@ -9,10 +9,10 @@ const Projects = () => {
       image: "s.png", // Replace with your project image URL
     },
     {
-      title: "Project Two",
-      description: "A brief description of project two.",
-      link: "https://project-two.com",
-      image: "https://via.placeholder.com/300", // Replace with your project image URL
+      title: "Krishnaonlinenbook website ",
+      description: "",
+      link: "https://krishnaonlinebook.vercel.app/",
+      image: "k.png", // Replace with your project image URL
     },
     {
       title: "Project Three",

@@ -1,6 +1,8 @@
 import React from 'react';
 import { FaFacebook, FaTwitter, FaLinkedin, FaGithub } from 'react-icons/fa';
 
+ 
+
 export default function Home() {
   return (
     <div className="mt-1 max-w-screen-2xl container mx-auto px-4 md:px-20">
@@ -9,7 +11,9 @@ export default function Home() {
         {/* Text Section */}
         <div className="md:w-1/2 space-y-6 md:space-y-8 px-6 md:px-0 mt-10">
           <h1 className="text-3xl md:text-4xl font-serif mb-4">
+            
             Welcome to My Portfolio
+          
           </h1>
           
           <p className="text-xl text-gray-700">
