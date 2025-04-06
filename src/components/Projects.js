@@ -3,10 +3,10 @@ import React from "react";
 const Projects = () => {
   const projects = [
     {
-      title: "Project One",
-      description: " Amazon sales Dashboard   .",
-      link: "https://github.com/ankur7465/Amazon-Sales-Dashboard",
-      image: "s.png", // Replace with your project image URL
+      title: "Spotify clone website ",
+      description: " this is good project to gain your experience",
+      link: "https://spotify-psi-ivory.vercel.app/",
+      image: "P.png", // Replace with your project image URL
     },
     {
       title: "Krishnaonlinenbook website ",
