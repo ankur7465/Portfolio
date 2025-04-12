@@ -32,7 +32,7 @@ const Projects = () => {
           {projects.map((project, index) => (
             <div
               key={index}
-              className="bg-white shadow-lg rounded-lg overflow-hidden transition-all hover:shadow-xl"
+              className="bg-black shadow-lg rounded-lg overflow-hidden transition-all hover:shadow-xl"
             >
               <img
                 src={project.image}
