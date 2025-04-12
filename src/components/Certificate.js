@@ -52,7 +52,7 @@ export default function Certificate() {
 
   return (
     <div>
-      <section className="services bg-[#dededed9] py-12 bg-gray-50   dark:bg-gray-900">
+      <section className="services bg-[#dededed9] py-12 bg-gray-50   dark:bg-black">
         <div className="container mx-auto text-center">
           <h2 className="text-4xl font-bold mb-8  mt-5">Our Certificates</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 ">
