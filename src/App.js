@@ -17,7 +17,7 @@ const fadeInVariants = {
 
 function App() {
   return (
-    <div className="bg-white dark:bg-gray-900 text-black dark:text-white">
+    <div className="bg-white dark:bg-black text-black dark:text-white">
       {/* Navbar */}
       <Navbar2 />
 
