@@ -23,7 +23,7 @@ const Projects = () => {
   ];
 
   return (
-    <div className="bg-gray-50 py-12   dark:bg-black">
+    <div className="bg-gray-50 py-12   dark:bg-gray-900">
       <div className="max-w-6xl mx-auto px-6">
         <h2 className="text-4xl text-center font-bold  mb-8 mt-7">
           My Projects
@@ -40,7 +40,7 @@ const Projects = () => {
                 className="w-full h-56 "
               />
               <div className="p-6">
-                <h3 className="text-xl font-semibold text-white font-serif mb-2">
+                <h3 className="text-xl font-semibold text-white mb-2">
                   {project.title}
                 </h3>
                 <p className="text-white font-serif  mb-4">{project.description}</p>

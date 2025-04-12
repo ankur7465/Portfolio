@@ -2,7 +2,7 @@ import React from "react";
 
 const About = () => {
   return (
-    <section className="bg-gray-50 py-12  dark:bg-black ">
+    <section className="bg-gray-50 py-12  dark:bg-gray-900 ">
       <div className="max-w-6xl mx-auto px-6">
         <div className="flex flex-col lg:flex-row items-center">
           {/* Left Column - Image */}

@@ -3,7 +3,7 @@ import { FaFacebook, FaTwitter, FaLinkedin, FaGithub } from 'react-icons/fa';
 
 export default function Home() {
   return (
-    <div className="mt-1 max-w-screen-2xl container mx-auto px-4 md:px-20 bg-black">
+    <div className="mt-1 max-w-screen-2xl container mx-auto px-4 md:px-20">
       <div className="flex flex-col-reverse md:flex-row items-center justify-between mt-10 md:mt-16">
         
         {/* Text Section */}
