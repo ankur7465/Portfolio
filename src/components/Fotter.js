@@ -3,7 +3,7 @@ import React from 'react';
 
 const Footer = () => {
   return (
-    <footer className="bg-gray-700 text-white py-8">
+    <footer className="bg-gray-950 text-white py-8">
       <div className="max-w-screen-xl mx-auto px-6">
         <div className="flex flex-col md:flex-row justify-between items-center">
           {/* Left Section - Contact and Social Media */}
