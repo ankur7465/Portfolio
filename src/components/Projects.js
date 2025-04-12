@@ -40,10 +40,10 @@ const Projects = () => {
                 className="w-full h-56 "
               />
               <div className="p-6">
-                <h3 className="text-xl font-semibold text-gray-900 mb-2">
+                <h3 className="text-xl font-semibold text-white font-serif mb-2">
                   {project.title}
                 </h3>
-                <p className="text-gray-600 mb-4">{project.description}</p>
+                <p className="text-white font-serif  mb-4">{project.description}</p>
                 <a
                   href={project.link}
                   target="_blank"
